@@ -1,29 +1,9 @@
-# README #
+### Document Management System ###
+This document management system is a desktop application based on windows forms.
+It has the capability to store, manage, modify your documents of any form and format.
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+### How to use this applicaion?###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+It is under development but you can use the existing features quite easily and efficiently.
+Just build the project and use the .exe.
